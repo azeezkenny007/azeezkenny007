@@ -1,7 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)](https://www.simplilearn.com/what-is-web-1-0-web-2-0-and-web-3-0-with-their-difference-article#:~:text=Web%201.0%20is%20the%20%22read,towards%20decentralized%2C%20nearly%20anonymous%20platforms.)
+[![MasterHead](https://miro.medium.com/max/1400/1*uoUra4LLjZqtkMH4RUeRmw.gif)](https://www.simplilearn.com/what-is-web-1-0-web-2-0-and-web-3-0-with-their-difference-article#:~:text=Web%201.0%20is%20the%20%22read,towards%20decentralized%2C%20nearly%20anonymous%20platforms.)
 
 
-Hi 👋 My name is Okhamena azeez
+Hi 👋 My name is __OKHAMENA AZEEZ__
+<div style="margin-top:20px"></div>
 i've been Learning to code for a year now, i started off with web development stack , but i have found a newed passion for BlockChain Technology and it's Use-Cases
 
 * 🌍  I'm based in Nigeria
@@ -14,7 +15,7 @@ i've been Learning to code for a year now, i started off with web development st
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif"/>
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
