@@ -3,6 +3,10 @@
 
 Hi 👋 My name is __OKHAMENA AZEEZ__
 <div style="margin-top:20px"></div>
+<div style="margin-top:20px"></div>
+Hi 👋 __ __A FULLSTACK WEB2 AND WEB3 DEVELOPER__
+<div style="margin-top:20px"></div>
+
 i've been Learning to code for a year now, i started off with web development stack , but i have found a newed passion for BlockChain Technology and it's Use-Cases
 
 * 🌍  I'm based in Nigeria
