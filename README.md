@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*uoUra4LLjZqtkMH4RUeRmw.gif)](https://www.simplilearn.com/what-is-web-1-0-web-2-0-and-web-3-0-with-their-difference-article#:~:text=Web%201.0%20is%20the%20%22read,towards%20decentralized%2C%20nearly%20anonymous%20platforms.)
+
 
 
 Hi 👋 My name is __OKHAMENA AZEEZ__
