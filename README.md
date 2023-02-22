@@ -8,7 +8,7 @@ Hi 👋 My name is __OKHAMENA AZEEZ__
  **A FULLSTACK WEB2 AND WEB3 DEVELOPER**
 <div style="margin-top:40px"></div>
 
-i've been Learning to code for a year now, i started off with web development stack , but i have found a renewed passion for BlockChain Technology and it's Use-Cases
+i've been Learning to code for 2 years now, i started off with web development stack , but i have found a renewed passion for BlockChain Technology and it's Use-Cases
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [azeezokhamena@gmail.com](mailto:azeezokhamena@gmail.com)
