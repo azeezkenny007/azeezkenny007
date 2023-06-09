@@ -12,7 +12,7 @@ i've been Learning to code for 2 years now, i started off with web development s
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [azeezokhamena@gmail.com](mailto:azeezokhamena@gmail.com)
-* 🧠  I'm learning Wagmi
+* 🧠  I'm learning React-query
 * ⚡  i love travelling
 
 ### Skills
