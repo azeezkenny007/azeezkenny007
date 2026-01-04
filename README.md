@@ -5,10 +5,10 @@ Hi 👋 My name is __OKHAMENA AZEEZ__
 <div style="margin-top:20px"></div>
 <div style="margin-top:20px"></div>
 
- **A BLOCKCHAIN ENGINEER**
+ **A Backend ENGINEER**
 <div style="margin-top:40px"></div>
 
-i've been Learning to code for 4 years now, i started off with web development stack , but i have found a renewed passion for BlockChain Technology and it's Use-Cases
+i've been Learning to code for 4 years now, i started off with web development stack , but i have found a renewed passion for Backend Technology and it's Use-Cases
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [azeezokhamena@gmail.com](mailto:azeezokhamena@gmail.com)
